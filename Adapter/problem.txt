@@ -1,0 +1,3 @@
+Imagine this problem. I had a program which worked with celsium degrees, but now i want to use library which can do some functions.
+The problem is that this library works with kelvin degrees, and we have to adapt it for existing code. That's why I use pattern 
+called Adapter.
