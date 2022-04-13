@@ -1,0 +1,2 @@
+Imagine that we are developing cross-platform app, which has 2 kinds of users: admin and usual user. We need to implement different GUIs
+for this kind of users, and different logic for all supported OS. Use Bridge pattern will be nice decision.
