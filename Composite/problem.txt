@@ -1,0 +1,3 @@
+Imagine that we are developing some kind of online store, and we can present model of our program like tree. We have object "Order", which
+can include "Product" or "Box", and "Box" can include both "Product" or another "Box". And we need to count price of whole order. It is
+rather troublesome to look for all the products and to sum their prices, and pattern Composite will help us.
