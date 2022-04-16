@@ -1,0 +1,2 @@
+We have 2 subsystems which realize some special logic. I use facade pattern to make client code more simple and elegant and to hide 
+initialization of susbsystem classes.
