@@ -1,0 +1,4 @@
+Imagine that we have to create a database of employees. Every employee has name, surname, company and position. Obviously, company and
+position fields will repeat many times and we will have to keep many objects which are exactly the same, so I divided employee class into
+two smaller classes : Lightweight which includes repeating fields, and Context clas which includes unique states. It is very important
+that we have a EmployeeDB class, which keeps all lightweights.
