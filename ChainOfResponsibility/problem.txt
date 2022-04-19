@@ -1,0 +1,4 @@
+In this example i use CoR pattern to create technical support service of large GPU manufacturer. 
+My chain of responsibilities looks like this:
+Kind of stupid bot ---> administrator ---> main engineer. 
+Request goes to next member of chain if request is too hard for current member. 
