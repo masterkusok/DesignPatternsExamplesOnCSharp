@@ -1,0 +1,1 @@
+Conceptual realization of program, which allows you to create scripts for your smart house system.
