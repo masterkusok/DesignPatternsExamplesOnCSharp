@@ -37,7 +37,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChainOfResponsibility", "Ch
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Command", "Command\Command.csproj", "{CBA1C570-DEC7-429F-B39C-B764A18903CE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Iterator", "Iterator\Iterator.csproj", "{BF2B1571-57AA-4449-A129-B59C2FC2C222}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Iterator", "Iterator\Iterator.csproj", "{BF2B1571-57AA-4449-A129-B59C2FC2C222}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VisualGraphTraversal", "VisualGraphTraversal\VisualGraphTraversal.csproj", "{E1AA4108-969E-4502-B3A4-3D16C25520C7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -105,6 +107,10 @@ Global
 		{BF2B1571-57AA-4449-A129-B59C2FC2C222}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BF2B1571-57AA-4449-A129-B59C2FC2C222}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BF2B1571-57AA-4449-A129-B59C2FC2C222}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1AA4108-969E-4502-B3A4-3D16C25520C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1AA4108-969E-4502-B3A4-3D16C25520C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1AA4108-969E-4502-B3A4-3D16C25520C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1AA4108-969E-4502-B3A4-3D16C25520C7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -125,6 +131,7 @@ Global
 		{F775D99B-DCFF-4E56-8A51-F67FEAFDE581} = {E8BDFC14-D8AC-4716-A54A-EF6394C8A87E}
 		{CBA1C570-DEC7-429F-B39C-B764A18903CE} = {E8BDFC14-D8AC-4716-A54A-EF6394C8A87E}
 		{BF2B1571-57AA-4449-A129-B59C2FC2C222} = {E8BDFC14-D8AC-4716-A54A-EF6394C8A87E}
+		{E1AA4108-969E-4502-B3A4-3D16C25520C7} = {E8BDFC14-D8AC-4716-A54A-EF6394C8A87E}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {4753C81F-C3CC-4B2C-BA17-C1B223C19567}
