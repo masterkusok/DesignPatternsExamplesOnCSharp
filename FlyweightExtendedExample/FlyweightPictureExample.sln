@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlyweightPictureExample", "FlyweightPictureExample\FlyweightPictureExample.csproj", "{DBF8D62C-6F00-46A7-B76E-D3F5BCF9106F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBF8D62C-6F00-46A7-B76E-D3F5BCF9106F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBF8D62C-6F00-46A7-B76E-D3F5BCF9106F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBF8D62C-6F00-46A7-B76E-D3F5BCF9106F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBF8D62C-6F00-46A7-B76E-D3F5BCF9106F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E378B872-C92B-4530-AEE0-42C7DDEB8C63}
+	EndGlobalSection
+EndGlobal
