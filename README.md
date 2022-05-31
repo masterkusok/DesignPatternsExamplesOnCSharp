@@ -7,6 +7,7 @@ Some of projects has problem.txt file, in this file you can find description of 
 This repository will be completed with more detailed examples of pattern usage.
 List of more detailed pattern examples:
 * VisualGraphTraversal - example of Iterator pattern. Shows different orders of tree traversal graphically.
+* FlyweightPictureExample - example of Flyweight pattern. Shows the way to optimize storing Images in memory.
 
 *************************************************************************************************************************************************************************
 
@@ -17,7 +18,6 @@ RU:
 Этот репозиторий будет дополнен более полными и детальными примерами использования паттернов.
 Список подробных примеров:
 * VisualGraphTraversal - пример использования паттерна Итератор. Графически показывает разные порядки обхода дерева.
-
-
+* FlyweightPictureExample - пример паттерна Легковес. Показывает способ оптимизировать хранение изображений в оперативной памяти.
 
 With love, masterkusok (●'◡'●)
